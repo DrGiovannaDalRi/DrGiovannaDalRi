@@ -2,6 +2,8 @@
 
 I am a Medical Doctor and Biomedical Engineer, graduated in MedTec, from Humanitas University and Politecnico di Milano. 
 
+I aim at becoming a bridge between neurosurgery and neuroengineering, while bringing new innovations in the neuroscience field.
+
 I am currently working on neuroscience and neurosurgery research, BCI systems building, EEG signal processing, neuroengineering, and neurostimulation.
 
 I work easily with machine learning and deep learning models. My biggest project was the BCI system I entirely built for my thesis, from EEG data recording to actuator building. It can be found on my profile.
